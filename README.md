@@ -15,7 +15,7 @@ is correct, too high, or too low.
 6. Add the option for multiple rounds, allowing the user to play again.
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
 
-*PROJECT LINK :* 
+*PROJECT LINK :* https://github.com/acefitboy/CODSOFT/blob/be8aa95e189f2c279a1f72edb80633a69ac3e446/NumberGame.java
 
 TASK : 2 [WORD COUNTER]
 
