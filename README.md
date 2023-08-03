@@ -33,27 +33,9 @@ TASK : 2 [WORD COUNTER]
 9. Implementing input validation to handle empty inputs or file errors.
 10. Adding a graphical user interface (GUI) for a more user-friendly experience.
 
-PROJECT LINK :
+PROJECT LINK : https://github.com/acefitboy/CODSOFT/blob/0d606d47262292c0d9137d8e22d462f60c0b5eb3/WordCounter.java
 
-TASK : 3 [STUDENT MANAGEMENT SYSTEM]
-
-1. Create a Student class to represent individual students. Include attributes such as name, roll
-number, grade, and any other relevant details.
-2. Implement a StudentManagementSystem class to manage the collection of students. Include
-methods to add a student, remove a student, search for a student, and display all students.
-3. Design the user interface for the Student Management System. This can be a console-based
-interface or a graphical user interface (GUI) using libraries like Swing or JavaFX.
-4. Implement methods to read and write student data to a storage medium, such as a file or a
-database.
-5. Allow users to interact with the Student Management System by providing options such as
-adding a new student, editing an existing student's information, searching for a student, displaying all
-students, and exiting the application.
-6. Implement input validation to ensure that required fields are not left empty and that the student
-data is in the correct format
-
-PROJECT LINK : 
-
-TASK : 4 [ATM INTERFACE]
+TASK : 3 [ATM INTERFACE]
 
 1.Create a class to represent the ATM machine.
 
@@ -73,7 +55,7 @@ of their transactions.
 
 PROJECT LINK :  
 
-TASK : 5 [ADDRESS BOOK SYSTEM]
+TASK : 4 [ADDRESS BOOK SYSTEM]
 
 1. Create a Contact class to represent individual contacts. Include attributes such as name, phone
 number, email address, and any other relevant details.
