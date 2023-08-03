@@ -33,7 +33,7 @@ TASK : 2 [WORD COUNTER]
 9. Implementing input validation to handle empty inputs or file errors.
 10. Adding a graphical user interface (GUI) for a more user-friendly experience.
 
-*PROJECT LINK :* 
+PROJECT LINK :
 
 TASK : 3 [STUDENT MANAGEMENT SYSTEM]
 
@@ -51,7 +51,7 @@ students, and exiting the application.
 6. Implement input validation to ensure that required fields are not left empty and that the student
 data is in the correct format
 
-*PROJECT LINK :* 
+PROJECT LINK : 
 
 TASK : 4 [ATM INTERFACE]
 
@@ -67,11 +67,31 @@ checkBalance().
   
 5. Connect the ATM class with the user's bank account class to access and modify the account
 balance.
-
-*PROJECT LINK :* 
-
-9. Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
-10. Display appropriate messages to the user based on their chosen options and the success or failure
+6. Validate user input to ensure it is within acceptable limits (e.g., sufficient balance for withdrawals).
+7. Display appropriate messages to the user based on their chosen options and the success or failure
 of their transactions.
 
-*PROJECT LINK :* 
+PROJECT LINK :  
+
+TASK : 5 [ADDRESS BOOK SYSTEM]
+
+1. Create a Contact class to represent individual contacts. Include attributes such as name, phone
+number, email address, and any other relevant details.
+
+2. Implement an AddressBook class to manage the collection of contacts. Include methods to add a
+contact, remove a contact, search for a contact, and display all contacts.
+
+3. Design the user interface for the Address Book System. This can be a console-based interface or a
+graphical user interface (GUI) using libraries like Swing or JavaFX.
+
+4. Implement methods to read and write contact data to a storage medium, such as a file or a
+database.
+
+5. Allow users to interact with the Address Book System by providing options such as adding a new
+contact, editing an existing contact's information, searching for a contact, displaying all contacts, and
+exiting the application.
+
+6. Implement input validation to ensure that required fields are not left empty and that the contact
+data is in the correct format.
+
+RPOJECT LINK : 
